@@ -1,2 +1,4 @@
-# CTI-110-1902
-FayTech CTI110 class
+# CTI 110 Repository
+Created for P1LAB1
+Roll
+6/16/2025
